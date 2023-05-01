@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Nishy Resume</title>
+</head>
+
+<body>
+  <h1>Danish Irfan</h1>
+  <p>
+    MALAYSIA | 
+    <a href="https://www.linkedin.com/in/danish-irfan-4523a0210/">LinkedIn</a> | 
+    +60 13450 6760 | 
+    <a href="mailto:nishydanish@gmail.com">nishydanish@gmail.com</a>
+  </p>
+
+  <hr />
+  <h2>Education</h2>
+  <h3>UniKL MFI, Bangi (2018-2023)</h3>
+  <ul>
+    <li>Bachelor in Degree Mechanical Engineering hons.</li>
+    <li>Sigma School student</li>
+  </ul>
+
+  <hr />
+  <h2>Work Experience</h2>
+  <h3>Esports Team Manager (2021-Now)</h3>
+  <h5>MAB Esports, an organization based in Kuala Lumpur</h5>
+
+  <hr />
+  <h2>Skills & Interests</h2>
+  <ul>
+    <p><b>Skills:</b></p>
+    <li>Adobe Photoshop & Illustrator (.psd & .ai)</li>
+    <li>Event organizer (eSports events)</li>
+    <li>Esports competitive teams (PUBGM & MLBB)</li>
+
+    <p><b>Interests:</b></p>
+    <li>Gaming</li>
+    <li>Sports</li>
+    <li>Coding</li>
+  </ul>
+</body>
+
+</html>
